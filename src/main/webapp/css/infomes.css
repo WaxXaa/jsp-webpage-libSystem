@@ -1,0 +1,15 @@
+#sec-informes {
+  background-color: #afafaf;
+  position: absolute;
+  left: 100px;
+  bottom: 50px;
+  width: 85%;
+  height: 60%;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+
+#f-informes {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,43 @@
+#nav-admin {
+    position: relative;
+    right: 0;
+    top: 150px;
+    height: 350px;
+    width: 200px;
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    border-left: 3px solid #afafaf;
+}
+
+#nav-admin a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+#logo {
+
+    position: absolute;
+    top: 15px;
+    left: 65px;
+    width: 70px;
+    height: 70px;
+
+}
+
+#filtro {
+    position: absolute;
+    top: 60px;
+    left: 50%;
+}
+
+#sec-libros {
+    position: absolute;
+    top: 160px;
+    left: 200px;
+    background-color: #afafaf;
+    height: 70%;
+    width: 80%;
+}

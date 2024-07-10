@@ -1,0 +1,12 @@
+.img-notificaciones {
+    background-image: url("../img/notification.png");
+}
+
+#sec-usuario {
+    background-color: #afafaf;
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+    width: 85%;
+    height: 60%;
+}
